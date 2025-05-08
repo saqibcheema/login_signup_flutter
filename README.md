@@ -1,2 +1,16 @@
-# login_signup_flutter
-Flutter Auth UI 🚀 – A sleek and responsive Login &amp; Signup UI built with Flutter. Features clean design, input validation, smooth navigation, and responsive layouts for a seamless user experience. Ideal for Flutter beginners and pros looking to integrate authentication screens effortlessly. ✨ Tech Stack: Flutter, Dart.
+# untitled1
+
+A new Flutter project.
+
+## Getting Started
+
+This project is a starting point for a Flutter application.
+
+A few resources to get you started if this is your first Flutter project:
+
+- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
+- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+
+For help getting started with Flutter development, view the
+[online documentation](https://docs.flutter.dev/), which offers tutorials,
+samples, guidance on mobile development, and a full API reference.
